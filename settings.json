@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "qusaisirbel-jQgC.aternos.me:54382",
+    "ip": "qusaisirbel-jQgC.aternos.me",
     "port": 54382,
     "version": "26.1.2",
     "try-creative": false
